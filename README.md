@@ -22,4 +22,8 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
+<<<<<<< HEAD
 (MIT)[https://choosealicense.com/licenses/mit/]
+=======
+(MIT)[https://choosealicense.com/licenses/mit/]
+>>>>>>> 2286074af88fec528b16d024060de51ab9b40fb5
